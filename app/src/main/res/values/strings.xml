@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">View And ViewGroup</string>
+    <string name="hobby_detail">Football\n
+    Basketball\n
+    Volleyball\n
+    Kuliner\n
+    Travel\n
+    Reading\n
+    Writing</string>
+    <string name="name">Qois Abdul Qudus</string>
+    <string name="place">Serang, Banten</string>
+    <string name="born">Born</string>
+    <string name="born_detail">Serang, 30 Agustus 1999</string>
+    <string name="hobby">Hobby</string>
+    <string name="socal_media">Social Media</string>
+    <string name="instagram_detail">"https://www.instagram.com/qoisabd"</string>
+    <string name="facebook">Facebook</string>
+    <string name="facebook_detail">"https://www.facebook.com/qoisabdq"</string>
+    <string name="github">Github</string>
+    <string name="github_detail">"https://github.com/qoisabd"</string>
+    <string name="instagram">Instagram</string>
+    <string name="education">Education</string>
+    <string name="elementary">Elementary\n
+    School</string>
+    <string name="elementary_detail">SDN Lopang 1 Kota Serang</string>
+    <string name="junior">Junior\n
+    School</string>
+    <string name="junior_detail">Mts Persis 55 Kota Serang</string>
+    <string name="high_school">High\n
+    School</string>
+    <string name="high_detail">MA Annajah Bekasi</string>/
+</resources>
